@@ -1,6 +1,6 @@
 # A02
 Part 1: Directions on Using WebStorm with Git and GitHub
-
+ 
 Step 1: Download and Install WebStorm
 
   Go to the official JetBrains website: https://www.jetbrains.com/webstorm/
