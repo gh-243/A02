@@ -126,6 +126,6 @@ References
 
   https://git-scm.com/
 
-  from https://docs.github.com/en
+  https://docs.github.com/en
 
 
